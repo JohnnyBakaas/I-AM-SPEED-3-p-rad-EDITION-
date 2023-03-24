@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I AM SPEED (3 på rad EDITION)", "I AM SPEED (3 på rad EDITION)\I AM SPEED (3 på rad EDITION).csproj", "{FA326B61-BAA9-49A2-BB24-C13C72BEFC4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA326B61-BAA9-49A2-BB24-C13C72BEFC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA326B61-BAA9-49A2-BB24-C13C72BEFC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA326B61-BAA9-49A2-BB24-C13C72BEFC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA326B61-BAA9-49A2-BB24-C13C72BEFC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93658905-DBA1-421D-B90F-FE62B5FC0560}
+	EndGlobalSection
+EndGlobal
